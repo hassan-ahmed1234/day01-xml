@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employeetable>
+
+<employee>salman</employee>
+<id>101</id>
+<salary>20000</salary>
+<joiningdate>11/12/21</joiningdate>
+<position>manager</position>
+<employee>salman</employee>
+<id>101</id>
+<salary>20000</salary>
+<joiningdate>11/12/21</joiningdate>
+<position>manager</position>
+<employee>salman</employee>
+<id>101</id>
+<salary>20000</salary>
+<joiningdate>11/12/21</joiningdate>
+<position>manager</position>
+<employee>salman</employee>
+<id>101</id>
+<salary>20000</salary>
+<joiningdate>11/12/21</joiningdate>
+<position>manager</position>
+</employeetable>
